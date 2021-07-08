@@ -1,1 +1,1 @@
-<p align="center"><h3>I am happy 😀</h3></p>
+<p align="center">I am happy 😀</p>
