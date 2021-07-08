@@ -1,1 +1,1 @@
-### I am happy 😀
+<p align="center">### I am happy 😀</p>
