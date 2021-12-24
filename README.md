@@ -1,4 +1,4 @@
-# 안녕하세요
+# 자기소개
 
 - 주 사용 언어: Java, Kotlin, Rust, Python
 - 국적: 대한민국
