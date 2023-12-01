@@ -1,17 +1,17 @@
 <div align="center">
 
-## Hi 👋
-
 ### About Me
 
-I am a student developer working on Games, Web and IoT. <br/>
+Hi! I am a student developer working on Games, Web and IoT. <br/>
 I spent two years working on the web - both frontend and backend.<br/>
 I spent a year on creating Minecraft plugins.<br/>
 I am currently working on an IoT framework that works with an Arduino.<br/>
 
+### Stats
+
 [![Dolphin2410's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dolphin2410&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/dolphin2410)
 
-### Platforms & Languages
+### Languages
 <p>
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
