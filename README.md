@@ -2,10 +2,9 @@
 
 ### About Me
 
-Hi! I am a student developer working on Games, Web and IoT. <br/>
-I spent two years working on the web - both frontend and backend.<br/>
-I spent a year on creating Minecraft plugins.<br/>
-I am currently working on an IoT framework that works with an Arduino.<br/>
+```javascript
+undefined
+```
 
 ### Stats
 
