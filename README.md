@@ -2,8 +2,8 @@
 
 ### About Me
 
-```javascript
-undefined
+```python
+velocity_player = 3 * 10 ** 8
 ```
 
 ### Stats
