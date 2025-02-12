@@ -3,7 +3,7 @@
 ### About Me
 
 ```python
-velocity_player = 3 * 10 ** 8
+velocity_player = 3 * 10 ** 8 - epsilon
 ```
 
 ### Stats
