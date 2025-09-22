@@ -6,6 +6,16 @@
 velocity_player = 3 * 10 ** 8 - epsilon
 ```
 
+### Projects
+
+[@dolphin2410-archive](https://github.com/dolphin2410-archive) Archived hobby projects
+<br />
+[@mangokiwibird](https://github.com/mangokiwibird) Code for R&E
+<br />
+[@narwhallab](https://github.com/narwhallab) IoT & Smart Home Projects
+<br />
+[@illusion-crew](https://github.com/illusion-crew) Current Business
+
 ### Stats
 
 [![Dolphin2410's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dolphin2410&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/dolphin2410)
