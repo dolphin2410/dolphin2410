@@ -1,4 +1,4 @@
-# Hi, I'm dolphin2410
+# Hi, I am @dolphin2410
 
 ## Education
 
