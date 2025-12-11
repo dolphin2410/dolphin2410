@@ -1,28 +1,20 @@
-<div align="center">
+# Hi, I'm dolphin2410
 
-### About Me
+## Education
 
-```python
+- Sejong Science High School 17 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(24.03.01 ~ 26.02.07)
+- SNU College of Liberal Studies 26 &nbsp;&nbsp;&nbsp;(25.12.11 ~ )
 
-user.brain.overclock()
+## Projects
 
-```
+- [hairSEM](https://github.com/dolphin2410/hairSEM)
+- [mcphysics](https://github.com/dolphin2410/mcphysics)
+- [home-control-backend](https://github.com/narwhallab/home-control-backend)
+- [server-script](https://github.com/dolphin2410/server-script)
+- [chrome-native](https://github.com/dolphin2410/chrome-native)
+- [phantom](https://github.com/illusion-crew/phantom)
 
-### Projects
-
-[@dolphin2410-archive](https://github.com/dolphin2410-archive) Archived hobby projects
-<br />
-[@mangokiwibird](https://github.com/mangokiwibird) Code for R&E
-<br />
-[@narwhallab](https://github.com/narwhallab) IoT & Smart Home Projects
-<br />
-[@illusion-crew](https://github.com/illusion-crew) Current Business
-
-### Stats
-
-[![Dolphin2410's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dolphin2410&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/dolphin2410)
-
-### Languages
+## Languages
 <p>
   <img src="https://img.shields.io/badge/Python-046dd6?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/>
@@ -31,8 +23,6 @@ user.brain.overclock()
   <img src="https://img.shields.io/badge/Typescript-046dd6?style=flat-square&logo=Typescript&logoColor=white"/>
 </p>
 
-### Social Media
+## Contacts
 
 <a href="mailto:dolgore2410@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  
-</div>
